@@ -91,4 +91,4 @@ The model performance was improved using majority voting across multiple frames 
 
 ## Author
 
-Nick
+Krishna Sutar
