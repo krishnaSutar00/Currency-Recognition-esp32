@@ -69,7 +69,7 @@ The model performance was improved using majority voting across multiple frames 
 
 ## Hardware Setup
 
-![Hardware Setup](https://github.com/krishnaSutar00/Currency-Recognition-esp32/blob/main/Hardware_Images/WhatsApp%20Image%202026-05-20%20at%2006.26%20PM.jpeg?raw=true)
+![Hardware Setup]([https://github.com/krishnaSutar00/Currency-Recognition-esp32/blob/main/Hardware_Images/WhatsApp%20Image%202026-05-20%20at%2006.26%20PM.jpeg?raw=true](https://github.com/krishnaSutar00/Currency-Recognition-esp32/blob/main/Hardware_Images/WhatsApp%20Image%202026-05-20%20at%202.06.26%20PM.jpeg?raw=true))
 
 ---
 
