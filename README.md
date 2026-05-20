@@ -75,7 +75,7 @@ https://github.com/krishnaSutar00/Currency-Recognition-esp32/blob/main/Hardware_
 
 ## Results
 
-(Add screenshots here)
+https://github.com/krishnaSutar00/Currency-Recognition-esp32/blob/main/Results/Serial_Monitor_Output.jpeg?raw=true
 
 ---
 
